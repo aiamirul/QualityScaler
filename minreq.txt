@@ -1,0 +1,7 @@
+opencv-python-headless
+torch-directml
+torch
+wheel
+pyinstaller==5.6.2
+pyinstaller-hooks-contrib
+moviepy
